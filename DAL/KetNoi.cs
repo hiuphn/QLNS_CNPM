@@ -15,7 +15,7 @@ namespace DAL
         {
             if (connection.State != ConnectionState.Open)
             {
-                connection.Open();
+                connection.Open();//
             }
         }
     }
