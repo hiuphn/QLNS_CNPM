@@ -26,12 +26,12 @@ namespace DTO
             this.phucapkhac = phucapkhac;
             this.ghichu = ghichu;
         }
-
+        //teeee
 
         public string Maluong { get => maluong; set => maluong = value; }
         public double Lcb { get => lcb; set => lcb = value; }
         public double Phucapchucvu { get => this.phucapchucvu; set => this.phucapchucvu = value; }
         public double Phucapkhac { get => phucapkhac; set => phucapkhac = value; }
-        public string Ghichu { get => ghichu; set => ghichu = value; }
+        public string Ghichu { get => ghichu; set => ghichu = value; }  
     }
 }
