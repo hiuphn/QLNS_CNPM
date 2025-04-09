@@ -46,3 +46,9 @@ D:\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cach
 D:\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.dll
 D:\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.pdb
+D:\Download\QLNS-master\DTO\bin\Debug\DTO.dll
+D:\Download\QLNS-master\DTO\bin\Debug\DTO.pdb
+D:\Download\QLNS-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Download\QLNS-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Download\QLNS-master\DTO\obj\Debug\DTO.dll
+D:\Download\QLNS-master\DTO\obj\Debug\DTO.pdb
