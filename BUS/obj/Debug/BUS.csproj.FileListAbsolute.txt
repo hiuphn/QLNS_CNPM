@@ -176,3 +176,15 @@ C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\BUS\obj\Debug\BUS.c
 C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\BUS\obj\Debug\BUS.dll
 C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\BUS\obj\Debug\BUS.pdb
+D:\Download\QLNS-master\BUS\bin\Debug\BUS.dll
+D:\Download\QLNS-master\BUS\bin\Debug\BUS.pdb
+D:\Download\QLNS-master\BUS\bin\Debug\DAL.dll
+D:\Download\QLNS-master\BUS\bin\Debug\DTO.dll
+D:\Download\QLNS-master\BUS\bin\Debug\DAL.pdb
+D:\Download\QLNS-master\BUS\bin\Debug\DAL.dll.config
+D:\Download\QLNS-master\BUS\bin\Debug\DTO.pdb
+D:\Download\QLNS-master\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Download\QLNS-master\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Download\QLNS-master\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Download\QLNS-master\BUS\obj\Debug\BUS.dll
+D:\Download\QLNS-master\BUS\obj\Debug\BUS.pdb

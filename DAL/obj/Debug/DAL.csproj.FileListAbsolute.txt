@@ -133,3 +133,12 @@ C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\DAL\obj\Debug\DAL.c
 C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\DAL\obj\Debug\DAL.dll
 C:\Users\THUONG\Documents\Zalo Received Files\QUANLYNHANVIEN\DAL\obj\Debug\DAL.pdb
+D:\Download\QLNS-master\DAL\bin\Debug\DAL.dll
+D:\Download\QLNS-master\DAL\bin\Debug\DAL.pdb
+D:\Download\QLNS-master\DAL\bin\Debug\DTO.dll
+D:\Download\QLNS-master\DAL\bin\Debug\DTO.pdb
+D:\Download\QLNS-master\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Download\QLNS-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Download\QLNS-master\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Download\QLNS-master\DAL\obj\Debug\DAL.dll
+D:\Download\QLNS-master\DAL\obj\Debug\DAL.pdb

@@ -10,12 +10,12 @@ namespace DAL
 {
     public class KetNoi
     {
-        public SqlConnection connection = new SqlConnection(@"Data Source=LAPTOP-KUE6MP71;Initial Catalog=QUANLYNHANVIEN;Integrated Security=True;");
+        public SqlConnection connection = new SqlConnection(@"Data Source=HIU-PC;Initial Catalog=QUANLYNHANVIEN;Integrated Security=True;");
         public void CheckConnection()
         {
             if (connection.State != ConnectionState.Open)
             {
-                connection.Open();
+                connection.Open();//
             }
         }
     }
