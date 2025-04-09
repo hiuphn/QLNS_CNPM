@@ -27,6 +27,7 @@ namespace DTO
             this.ghichu = ghichu;
         }
 
+
         public string Maluong { get => maluong; set => maluong = value; }
         public double Lcb { get => lcb; set => lcb = value; }
         public double Phucapchucvu { get => this.phucapchucvu; set => this.phucapchucvu = value; }
